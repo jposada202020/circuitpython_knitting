@@ -2,9 +2,10 @@
 # SPDX-License-Identifier: MIT
 
 """
-Helper for fork awesome Knitting .
+Helper for font Knitting .
 
 """
-test1= "\u007f"
-test2 = "\u0080"
+bindoff= "\u007f"
+crossleft = "\u0080"
+crossleft_purl = "\u0081"
 

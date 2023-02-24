@@ -8,7 +8,7 @@ icons.
 """
 
 import board
-from knitting_font import test1, test2
+from knitting_font import bindoff, crossleft, crossleft_purl
 from adafruit_display_text import label
 from adafruit_bitmap_font import bitmap_font
 
@@ -17,7 +17,7 @@ display = board.DISPLAY
 font_file = "fonts/knitting-78.bdf"
 
 # Set text, font, and color
-text = "{}  {}  {}".format(test1, test2, test1)
+text = "{}  {}  {}".format(bindoff, crossleft, crossleft_purl)
 font = bitmap_font.load_font(font_file)
 color = 0xFF00FF
 
