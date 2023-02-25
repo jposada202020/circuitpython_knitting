@@ -1,16 +1,12 @@
 Introduction
 ============
 
-.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
-    :target: https://github.com/psf/black
-    :alt: Code Style: Black
-
 font to display knitting pattern symbols in CircuitPython
 
 
 Dependencies
 =============
-This driver depends on:
+design to work with
 
 * `Adafruit CircuitPython <https://github.com/adafruit/circuitpython>`_
 
