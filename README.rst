@@ -18,7 +18,7 @@ This driver depends on:
 Usage Example
 =============
 
-Use the example provided in the folder with the helpeer file to use the procvided font.
+Use the example with the helper file to use the provided font. Good Luck!
 
 
 Contributing

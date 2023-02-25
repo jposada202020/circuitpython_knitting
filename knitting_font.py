@@ -2,9 +2,10 @@
 # SPDX-License-Identifier: MIT
 
 """
-Helper for fork awesome Knitting .
+Helper for fork awesome Knitting
 
 """
+
 bindoff = "\u007f"
 crossleft = "\u0080"
 crossleft_purl = "\u0081"
@@ -49,7 +50,7 @@ passleft = "\u00A7"
 passright = "\u0052"
 purl = "\u0053"
 slantleft = "\u0054"
-slantright = "\u0055"
+slantright = ktb = "\u0055"
 slip = "\u0056"
 slipwyif = "\u0057"
 twistleft_purl = "\u00AE"
@@ -60,3 +61,10 @@ twistright = "\u00B2"
 twist_straight = "\u00B3"
 yarnover = "\u0059"
 yarnovertwist = "\u005A"
+knitone = "\u00C0"
+knit_through_the_back = "\u00C1"
+p2tog = "\u00C2"
+s2kpsso = "\u00BF"
+purl_forward_and_back = "\u00C3"
+make_one_left = "\u00C4"
+make_one_right = "\u00C5"

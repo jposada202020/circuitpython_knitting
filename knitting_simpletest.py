@@ -14,7 +14,7 @@ from adafruit_bitmap_font import bitmap_font
 
 display = board.DISPLAY
 
-font_file = "fonts/knitting-78.bdf"
+font_file = "fonts/Knitting-78.bdf"
 
 # Set text, font, and color
 text = "{}  {}  {}".format(bindoff, crossleft, crossleft_purl)
