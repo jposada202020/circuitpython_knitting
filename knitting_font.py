@@ -5,6 +5,10 @@
 Helper for fork awesome Knitting
 
 """
+twined_purl_reverse_twist = "\u0042"  # B
+hook_stitch_end = "\u0043"  # C
+hook_stitch_strand = "\u0044"  # D
+hook_stitch_start = "\u0045"  # E
 decrease7to1 = "\u004B"  # K
 twistright_purl = "\u0058"  # X
 yarnover_twist = "\u005A"  # Z
