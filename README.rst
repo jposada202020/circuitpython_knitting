@@ -1,7 +1,8 @@
 Introduction
 ============
 
-font to display knitting pattern symbols in CircuitPython
+font to display knitting pattern symbols in CircuitPython. Based on the work of Marmen https://github.com/marnen/knitting_symbols. 
+The original fontforge source file is added so you could add, or create your own size font.
 
 
 Dependencies
