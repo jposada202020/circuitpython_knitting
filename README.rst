@@ -1,3 +1,8 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+This is no longer supported
+
+
 Introduction
 ============
 
@@ -16,11 +21,3 @@ Usage Example
 =============
 
 Use the example with the helper file to use the provided font. Good Luck!
-
-
-Contributing
-============
-
-Contributions are welcome! Please read our `Code of Conduct
-<https://github.com/jposada202020/CircuitPython_knitting/blob/HEAD/CODE_OF_CONDUCT.md>`_
-before contributing to help this project stay welcoming. 
